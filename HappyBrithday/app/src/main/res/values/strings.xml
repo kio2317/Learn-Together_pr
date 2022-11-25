@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HappyBrithday</string>
+    <string name="happy_birthday_text">Happy Birthday Kim!</string>
+    <string name="title_activity_together_jepack_compose_pr">together_jepack_compose_pr</string>
+    <string name="title_activity_task_manager">Task_Manager</string>
+</resources>
