@@ -21,7 +21,6 @@ import com.example.happybrithday.ui.theme.HappyBrithdayTheme
 class together_jepack_compose_pr : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        // doqㅇ
         setContent {
             HappyBrithdayTheme {
                 Surface(color = MaterialTheme.colors.background) {
@@ -95,7 +94,7 @@ fun Imagepreview(){
 
 @Composable
 // 함수 ImageResource 변수 3개
-fun ImageResource(name: String,name2: String,name3: String) {
+fun ImageResource(name: String,name2: String, name3: String) {
     // 이미지 가져오기 R. drawable.bg_compose_background
     val image = painterResource(R.drawable.bg_compose_background)
     //Column: 항목을 화면에 세로로 배치
