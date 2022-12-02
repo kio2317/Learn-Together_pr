@@ -10,15 +10,24 @@
     <string name="textcomposable">Text composable</string>
     <string name="title_activity_pr_hello">pr_hello</string>
 
+    <!--pr_ hello = first name -->
     <string name="first_title">Text composable</string>
     <string name="First_description">Displays text and follows Material Design guidelines.</string>
 
+    <!--pr_ hello = second name -->
     <string name="second_title">Image composable</string>
     <string name="second_description">Creates a composable that lays out and draws a given Painter class object.</string>
 
+    <!--pr_ hello = third name -->
     <string name="third_title">Row composable</string>
     <string name="third_description">A layout composable that places its children in a horizontal sequence.</string>
 
+    <!--pr_ hello = fourth name -->
     <string name="fourth_title">Column composable</string>
     <string name="fourth_description">A layout composable that places its children in a vertical sequence.</string>
+    <string name="title_activity_pr_businesscard">pr_Businesscard</string>
+    <string name="FullName">kim jae won</string>
+    <string name="job">Android Developer</string>
+
+
 </resources>
