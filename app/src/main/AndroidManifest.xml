@@ -13,6 +13,24 @@
         android:theme="@style/Theme.HappyBrithday"
         tools:targetApi="31">
         <activity
+            android:name=".pr_hello"
+            android:exported="false"
+            android:label="@string/title_activity_pr_hello"
+            android:theme="@style/Theme.HappyBrithday">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".pr_quadrant"
+            android:exported="false"
+            android:label="@string/title_activity_pr_quadrant"
+            android:theme="@style/Theme.HappyBrithday">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".Task_Manager"
             android:exported="false"
             android:label="@string/title_activity_task_manager"
