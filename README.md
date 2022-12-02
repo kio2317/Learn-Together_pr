@@ -13,3 +13,5 @@ Learn-Together_pr
 ### 궁금한점
 1. Row(Modifier.weight(1f) 왜 1f라고 쓰는걸까?
 2. 숫자를 바꿔보면 색 범위가 늘어나는걸 알수 있다. 그 이상은 모르겠어요.
+
+### pr_besinesscard 미완성이니 주말에 완성하자!!ㄴ
