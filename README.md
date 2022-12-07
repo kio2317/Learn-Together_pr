@@ -1,5 +1,4 @@
 Learn-Together_pr
-
 ##스스로 짜본 코드와 솔루션 코드의 차이 문제점
 
 1. 솔루션 코드에서 .fillMaxHeight()를 추가 해줘야 연습 compose 사항 예시처럼 나오게 된다.
@@ -13,3 +12,8 @@ Learn-Together_pr
 ### 궁금한점
 1. Row(Modifier.weight(1f) 왜 1f라고 쓰는걸까?
 2. 숫자를 바꿔보면 색 범위가 늘어나는걸 알수 있다. 그 이상은 모르겠어요.
+---
+
+### 12/7 Birthday Card 수정
+1. 이미지 변경
+2. padding 추가
