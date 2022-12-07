@@ -58,7 +58,7 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".Main_Happy_birthday_Activity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.HappyBrithday">
